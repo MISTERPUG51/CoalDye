@@ -1,5 +1,7 @@
 # CoalDye
 
+[View on planetminecraft.com](https://www.planetminecraft.com/data-pack/coaldye/)
+
 ### What is CoalDye?
 CoalDye is a datapack for Minecraft Java Edition. This datapack lets you craft black dye using coal or charcoal. Without this datapack, you can only craft black dye with [ink sacs](https://minecraft.wiki/w/Ink_Sac) and [wither roses](https://minecraft.wiki/w/Wither_Rose).
 ### Crafting Recipes
