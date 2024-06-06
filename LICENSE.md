@@ -1,0 +1,1 @@
+You can do anything you like with this datapack. You do not have to give credit if you modify the pack, but it would be greatly appreciated if you did.
