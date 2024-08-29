@@ -1,5 +1,5 @@
 # CoalDye
-
+[View on modrinth.com](https://modrinth.com/datapack/coaldye)
 [View on planetminecraft.com](https://www.planetminecraft.com/data-pack/coaldye/)
 
 ### What is CoalDye?
