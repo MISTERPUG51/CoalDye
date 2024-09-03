@@ -1,6 +1,8 @@
 # CoalDye
 [View on modrinth.com](https://modrinth.com/datapack/coaldye)
 <br>
+[View on curseforge.com](https://www.curseforge.com/minecraft/data-packs/coaldye)
+<br>
 [View on planetminecraft.com](https://www.planetminecraft.com/data-pack/coaldye/)
 
 ### What is CoalDye?
